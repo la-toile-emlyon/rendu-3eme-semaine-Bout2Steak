@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.hero{
+    background-image: url(../approche.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 100vh;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+    justify-content: space-between;
+    background: rgba(255, 255, 255, 90%);
+    margin-bottom: 200px;
+}
+header nav{
+    display: flex;
+    margin-right: 60px;
+    gap: 30px;
+    font-family: "Noto Sans", sans-serif;
+    align-items: center;
+}
+header a{
+    color: #E6AC19;
+    font-size: 23px;
+    text-decoration: none;
+}
+
+.container{
+    max-width: 1200px;
+    margin:auto;
+    text-align: center;
+}
+h1{
+    font-family: "Dancing Script", cursive;
+    font-size: 69px;
+    color: #FFFAEE;
+    margin-bottom: 30px;
+    
+}
+.title-hero p{
+    font-family: "Noto Sans", sans-serif;
+    color:#E6AC19;
+    font-size: 23px;
+}
+.button-hero{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 50px;
+}
+.button-hero a{
+    font-family: "Noto Sans", sans-serif;
+    text-decoration: none;
+    padding: 20px;
+    width: 188px;
+}
+.button-hero1{
+    color:#FFFAEE;
+    background-color: #E6AC19;
+}
+.button-hero2{
+    color:#E6AC19;
+    background-color: #FFFAEE;
+}

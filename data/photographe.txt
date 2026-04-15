@@ -9,8 +9,8 @@ Cta Secondaire: Voir mes réalisations
 
 Identite Visuelle
 
-Couleur Principale: #C8A27A
-Couleur Texte: #3E2C23
+Couleur Principale: #FFB700
+Couleur Texte: #000000
 Typographie Titres: Montserrat
 Typographie Corps: Lato
 
